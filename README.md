@@ -37,5 +37,5 @@ Abaixo estão exemplos de perguntas feitas ao assistente e a validação de suas
 
 ---
 
-## 🔗 5. Links e Evidências
+## 🔗 5. Link do Notebook LM
 * https://notebook.google.com/notebook/13e8dd01-7a79-400f-b999-160406e6c4be
