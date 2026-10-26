@@ -38,4 +38,4 @@ Abaixo estão exemplos de perguntas feitas ao assistente e a validação de suas
 ---
 
 ## 🔗 5. Links e Evidências
-* https://notebook.google.com/notebook/13e8dd01-7a79-400f-b999-160406e6c4be *
+* https://notebook.google.com/notebook/13e8dd01-7a79-400f-b999-160406e6c4be
